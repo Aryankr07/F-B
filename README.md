@@ -26,3 +26,7 @@ Key Responsibilities:
 Outcome:
 
 Present a comprehensive analysis that empowers the Chief Marketing Officer with actionable insights, aiding strategic decisions to strengthen CodeX's position in the Indian market.
+
+
+![Screenshot 2024-01-01 210140](https://github.com/Aryankr07/Food-Beverage/assets/133600355/a2a3de1b-670b-45d3-8d74-4f2afc74823d)
+
