@@ -13,7 +13,7 @@ Key Responsibilities:
 
 * Examine the provided "Primary_Secondary_Insights.pdf" to glean insights from the survey results.
 
-* Utilize tools such as Python, SQL, PowerBI, Tableau, Excel, or PowerPoint for a thorough analysis.
+* Utilize tools such as MySQL, and PowerBI for a thorough analysis.
 
 * Address potential data anomalies by employing judgment and sense-checking to ensure the reliability of insights.
 
