@@ -1,5 +1,7 @@
 # Food & Beverage
 
+Live Dashboard - https://www.novypro.com/project/food--bevereage-analysis-report
+
 
 Situation:
 
@@ -7,7 +9,7 @@ CodeX, a German beverage company, recently launched its energy drink in 10 citie
 
 Task:
 
-As Peter Pandey, the Marketing Data Analyst for CodeX, the responsibility is to analyze the results of a survey conducted in these 10 cities. The survey garnered responses from 10,000 participants. The primary objective is to distill actionable insights from this data, facilitating informed decision-making within the Marketing team.
+As Marketing Data Analyst for CodeX, the responsibility is to analyze the results of a survey conducted in these 10 cities. The survey garnered responses from 10,000 participants. The primary objective is to distill actionable insights from this data, facilitating informed decision-making within the Marketing team.
 
 Key Responsibilities:
 
